@@ -1,7 +1,7 @@
 {
   "name": "larasy/cms",
-  "description": "Larasy - The Laravel Framework CMS",
-  "keywords": ["framework", "laravel", "cms", "larasy"],
+  "description": "Larasy - A CMS, based on laravel",
+  "keywords": ["cms", "larasy", "laravel"],
   "license": "MIT",
   "homepage": "https://larasy.io",
   "support": {
@@ -10,8 +10,12 @@
   },
   "authors": [
     {
-      "name": "Nahid and Shipu",
-      "email": "larasycms@gmail.com"
+      "name": "Nahid Bin Azhar",
+      "email": "nahid.dns@gmail.com"
+    },
+    {
+      "name": "Shipu Ahamed",
+      "email": "shipuahamed01@gmail.com"
     }
   ],
   "require": {
